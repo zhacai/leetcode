@@ -26,6 +26,4 @@ def selection_sort(arr):
         
     return arr
 
-print selection_sort(arr)
-
-# quick sort
+#print selection_sort(arr)
